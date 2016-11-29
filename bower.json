@@ -1,0 +1,20 @@
+{
+  "name": "dk-weather",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "caio.souza"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2"
+  }
+}
