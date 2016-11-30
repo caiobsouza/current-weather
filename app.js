@@ -1,5 +1,5 @@
 $(function () {
-    var APPID = 'AIzaSyCgawMBLa80266sqkpZIBJeAMpNj4HJhuI';
+    var APPID = 'yourclientid';
 
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(locationSuccess, locationError);
